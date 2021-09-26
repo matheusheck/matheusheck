@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Elixir!
-- 👯 I’m looking to collaborate on integration to beginners on development universe.
+- 👯 I’m looking to collaborate on integrating beginners on development universe.
 - 💬 Ask me about being Brazilian in Europe, Typescript, React(or Next!) and Functional Programming 
 - 📫 How to reach me: matheus@conduite.tv
 - 🏳️‍🌈 Pronouns: He/Him
