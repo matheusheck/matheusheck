@@ -4,7 +4,7 @@
 - 💬 Ask me about being Brazilian in Europe, Typescript, React(or Next!) and Functional Programming 
 - 📫 How to reach me: matheus@conduite.tv
 - 🏳️‍🌈 Pronouns: He/Him
-- - ⚡ Fun fact: I love photo and cinematography and I hold awards as terrible Instagramer.
+- ⚡ Fun fact: I love photo and cinematography and I hold awards as terrible Instagramer.
 
 <!--
 **matheusheck/matheusheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
