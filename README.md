@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently Elixir Engineer @ Equalture!
+- 🌱 I’m currently Software Engineer @ Habyt!
 - 👯 I’m looking to collaborate on integrating beginners on development universe.
-- 💬 Ask me about work in Europe with Typescript, React(Next!) and Functional Programming 
+- 💬 Ask me about work in Europe with Typescript, React(Next!), Elixir, Phoenix and Functional Programming 
 - 📫 How to reach me: matheus@conduite.tv
 - 🏳️‍🌈 Pronouns: He/Him
 - ⚡ Fun fact: I love photo and cinematography but I hold awards as terrible Instagramer.
