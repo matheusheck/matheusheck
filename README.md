@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently looking for a new job!
-- Worked as Software Engineer @ Habyt and @ Equalture!
+- 🔭 I've worked as Software Engineer @ Habyt and @ Equalture!
 - 👯 I’m looking to collaborate on integrating beginners on development universe.
 - 💬 Ask me about work in Europe with Typescript, React(Next!), Elixir, Phoenix and Functional Programming 
 - 📫 How to reach me: matheus@conduite.tv https://www.linkedin.com/in/matheusheck/
-- 🏳️‍🌈 Pronouns: He/Him
+- 🏳️‍🌈 Pronouns: He/Ele/Er
 - ⚡ Fun fact: I love photo and cinematography but I hold awards as terrible Instagramer.
 
 <!--
