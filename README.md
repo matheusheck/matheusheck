@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently looking for a new job!
+- 🎮 Play [the mvp version](https://multiplayer-game.fly.dev/) of my multiplayer game.
 - 🔭 I've worked as Software Engineer @ Habyt and @ Equalture!
 - 👯 I’m looking to collaborate on integrating beginners on development universe.
 - 💬 Ask me about work in Europe with Typescript, React(Next!), Elixir, Phoenix and Functional Programming 
