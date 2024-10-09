@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently looking for a new job!
+- 🌱 I’m currently working as Senior Software Engineer at Sona!
+- 👨🏽‍💻 I'm part of AI team, creating custom data base for a smarter and cheaper scheduled frontline.
 - 🎮 Play [the mvp version](https://multiplayer-game.fly.dev/) of my multiplayer game.
 - 🔭 I've worked as Software Engineer @ Habyt and @ Equalture!
 - 👯 I’m looking to collaborate on integrating beginners on development universe.
